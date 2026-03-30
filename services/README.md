@@ -1,5 +1,7 @@
 # Microservices Breakdown
 
+![Architecture Diagram](../diagrams/architecture_diagram.png)
+
 ## 1. User Service (Cognito)
 - Handles user registration, authentication, and profile management.
 
